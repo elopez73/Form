@@ -1,0 +1,64 @@
+.Box1
+{
+    margin:30px 500px;
+}
+
+.Box1 img
+ {
+    transition: 15px;
+    width: 600px;
+}
+
+.Box1 img:hover
+ {
+  filter: grayscale(5%);
+  Transform: scale(1.1);
+}
+.Box1a
+{
+    margin:-50px 625px;
+}
+
+.Box1a img
+ {
+    transition: 15px;
+    width: 300px;
+}
+
+.Box1a img:hover
+ {
+  filter: grayscale(100%);
+  Transform: scale(1.1);
+}
+.Box2
+{
+    margin:60px 500px;
+}
+
+.Box2 img
+ {
+    transition: 15px;
+    width: 310px;
+}
+
+.Box2 img:hover
+ {
+  filter: grayscale(5%);
+  Transform: scale(1.1);
+}
+.Box3
+{
+    margin:-50px 325px;
+}
+
+.Box3 img
+ {
+    transition: 15px;
+    width: 275px;
+}
+
+.Box3 img:hover
+ {
+  filter: grayscale(5%);
+  Transform: scale(1.1);
+}
